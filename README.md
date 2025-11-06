@@ -104,7 +104,9 @@ Before you begin, ensure you have the following installed:
   }
 }
 ```
-<img width="951" height="1115" alt="Screenshot 2025-11-06 233711" src="https://github.com/user-attachments/assets/b38b8666-fbec-4ed6-a9c5-67688159d17c" />
+<img width="1735" height="963" alt="Screenshot 2025-11-06 234630" src="https://github.com/user-attachments/assets/8e7b98de-1c0f-462c-951b-76114c0a06c2" />
+
+
 
 
 ### API Configuration
